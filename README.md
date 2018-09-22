@@ -26,6 +26,6 @@ COMMENTS
 
 Having followed the instrutions, to the letter, for the integration of Payworks Pay Button, I encountered many compile errors. Some of these were to do with the bugs in the latest version of Android studio, which I resolved after much research in online newsgroups and bulletin boards. Others were to do with missing expeted classes in the Payworks downloads. I started to create the classes in my MainActivity file, but I could have spent days trying to resolve these exceptions. I would have liked to work with a Payworks developer to get these sorted out. 
 
-Eventually, I decided to build a foront end application which simulated the required payments and refunds against an initial, hard-coded balance balance of £500.00. The application accepts an amount to be either refunded to the account or paid in to the account. The action can be repeated against the new balance.
+Eventually, I decided to build a front end application which simulated the required payments and refunds against an initial, hard-coded balance balance of £500.00. The application accepts an amount to be either refunded to the account or paid in to the account. The action can be repeated against the new balance.
 
 I have tested (just UAT) the app on my own phone: a Motorola Z2 Play.
